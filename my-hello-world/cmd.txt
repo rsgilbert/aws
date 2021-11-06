@@ -1,0 +1,3 @@
+// Zip folder 
+// From ~/Projects/aws
+zip -r my-hello-world.zip my-hello-world
